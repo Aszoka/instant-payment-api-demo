@@ -22,7 +22,7 @@ An instant payment API built with **Spring Boot 3**, **PostgreSQL**, **Kafka**, 
 
 ### 2️⃣ Clone the Repository
 
-git clone https://github.com/Aszoka/instant-payment-api.git
+git clone https://github.com/Aszoka/instant-payment-api-demo.git
 
 ### ️3️⃣ Build image to a Docker daemon
 
